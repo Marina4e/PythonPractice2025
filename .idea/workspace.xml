@@ -4,205 +4,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f274025-e766-4379-b065-efeb24c7ac84" name="Changes" comment="Types">
-      <change afterPath="$PROJECT_DIR$/Patterns/factory_method_for_interface.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Patterns/factory_method_report.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Patterns/implementation_factory_method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Patterns/implementation_singleton.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Patterns/payment_factory_method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Patterns/static_factory_method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Patterns/tests/tests_payment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Patterns/tests/tests_report.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Patterns/tests_payment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Patterns/tests_report.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/2_start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/3_salaries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy/copy_assignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Samples/http/example1_http_via_sockets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Samples/http/example2_http_via_sockets_parsing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Samples/http/example3_urllib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Samples/http/example4_requests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Samples/http/example5_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Samples/http/extra/django_api/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Samples/http/extra/django_api/issues/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Samples/http/extra/django_api/issues/csrf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Samples/http/extra/django_api/issues/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Samples/http/extra/django_api/issues/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Samples/http/extra/django_api/issues/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Samples/http/extra/django_api/issues/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Samples/http/extra/django_api/issues/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Samples/http/extra/django_api/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Samples/http/extra/django_api/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Samples/http/extra/django_api/tasks/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Samples/http/extra/django_api/tasks/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Samples/http/extra/django_api/tasks/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Samples/http/extra/django_api/tasks/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Samples/http/extra/example6_extra.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Samples/http/extra/example7_urllib3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Samples/sockets/simple/blocking/example4_nonblock_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Samples/sockets/simple/blocking/example4_nonblock_server_processing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Samples/sockets/simple/blocking/example5_nonblock_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Samples/sockets/simple/extra/example5_options.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Samples/sockets/simple/extra/example5_with.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Samples/sockets/simple/tcp/example3_tcp_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Samples/sockets/simple/tcp/example3_tcp_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Samples/sockets/simple/udp/example1_udp_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Samples/sockets/simple/udp/example1_udp_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Samples/sockets/simple/udp/example1_udp_server_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Samples/sockets/simple/udp/example2_udp_unix_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Samples/sockets/simple/udp/example2_udp_unix_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Samples/sockets/socket_server/extra/socket_tcp_server_threading.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Samples/sockets/socket_server/tcp/socket_tcp_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Samples/sockets/socket_server/tcp/socket_tcp_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Samples/sockets/socket_server/udp/socket_udp_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Samples/sockets/socket_server/udp/socket_udp_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Samples/sockets/socket_twisted/twisted_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Работа с сетью (Description).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/001_Работа с сетью/001_Работа с сетью (Presentation).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/002_Хранилища данных/002_Samples/_csv/data/example1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/002_Хранилища данных/002_Samples/_csv/data/undefined_dialect.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/002_Хранилища данных/002_Samples/_csv/example1_read.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/002_Хранилища данных/002_Samples/_csv/example2_dict_reader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/002_Хранилища данных/002_Samples/_csv/example3_write.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/002_Хранилища данных/002_Samples/_csv/example4_quoting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/002_Хранилища данных/002_Samples/_csv/example5_dialect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/002_Хранилища данных/002_Samples/_csv/example6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/002_Хранилища данных/002_Samples/_json/example1_dump.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/002_Хранилища данных/002_Samples/_json/example2_load.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/002_Хранилища данных/002_Samples/_json/example3_hook.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/002_Хранилища данных/002_Samples/_sqlite/example1_basics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/002_Хранилища данных/002_Samples/_sqlite/example2_converter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/002_Хранилища данных/002_Samples/_sqlite/example3_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/002_Хранилища данных/002_Samples/_sqlite/example4_aggregation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/002_Хранилища данных/002_Samples/_sqlite/example5_repr_results.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/002_Хранилища данных/002_Samples/_sqlite/example6_dump.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/002_Хранилища данных/002_Samples/_xml/data/test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/002_Хранилища данных/002_Samples/_xml/data/test_ns.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/002_Хранилища данных/002_Samples/_xml/example1_read_build.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/002_Хранилища данных/002_Samples/_xml/example2_events.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/002_Хранилища данных/002_Samples/_xml/example3_xpath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/002_Хранилища данных/002_Samples/_xml/example4_xpath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/002_Хранилища данных/002_Samples/_xml/example5_ns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/002_Хранилища данных/002_Хранилища данных (Description).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/002_Хранилища данных/002_Хранилища данных (Presentation).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/003_Асинхронное и многопоточное программирование (Presentation)/003_Samples/_async/_gevent/example1_tasks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/003_Асинхронное и многопоточное программирование (Presentation)/003_Samples/_async/_gevent/example2_event.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/003_Асинхронное и многопоточное программирование (Presentation)/003_Samples/_async/_gevent/example3_monkey_patching.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/003_Асинхронное и многопоточное программирование (Presentation)/003_Samples/_async/_tornado/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/003_Асинхронное и многопоточное программирование (Presentation)/003_Samples/_async/_tornado/example1_future.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/003_Асинхронное и многопоточное программирование (Presentation)/003_Samples/_async/_tornado/example2_locks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/003_Асинхронное и многопоточное программирование (Presentation)/003_Samples/_async/_tornado/example3_pool.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/003_Асинхронное и многопоточное программирование (Presentation)/003_Samples/_async/_tornado/example4_async_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/003_Асинхронное и многопоточное программирование (Presentation)/003_Samples/_async/_tornado/example5_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/003_Асинхронное и многопоточное программирование (Presentation)/003_Samples/_async/example12_twisted.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/003_Асинхронное и многопоточное программирование (Presentation)/003_Samples/_async/example1_yeild_from.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/003_Асинхронное и многопоточное программирование (Presentation)/003_Samples/_async/example2_cor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/003_Асинхронное и многопоточное программирование (Presentation)/003_Samples/_async/example3_sync_async.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/003_Асинхронное и многопоточное программирование (Presentation)/003_Samples/_async/example4_comp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/003_Асинхронное и многопоточное программирование (Presentation)/003_Samples/_async/example5_async_await.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/003_Асинхронное и многопоточное программирование (Presentation)/003_Samples/_async/example6_event_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/003_Асинхронное и многопоточное программирование (Presentation)/003_Samples/_async/example7_executor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/003_Асинхронное и многопоточное программирование (Presentation)/003_Samples/_async/example8_yield.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/003_Асинхронное и многопоточное программирование (Presentation)/003_Samples/_async/example9_aiohttp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/003_Асинхронное и многопоточное программирование (Presentation)/003_Samples/_threading/example1_start_thread.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/003_Асинхронное и многопоточное программирование (Presentation)/003_Samples/_threading/example2_comparing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/003_Асинхронное и многопоточное программирование (Presentation)/003_Samples/_threading/example3_local.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/003_Асинхронное и многопоточное программирование (Presentation)/003_Samples/_threading/example4_event.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/003_Асинхронное и многопоточное программирование (Presentation)/003_Samples/_threading/example5_lock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/003_Асинхронное и многопоточное программирование (Presentation)/003_Samples/_threading/example6_rlock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/003_Асинхронное и многопоточное программирование (Presentation)/003_Samples/_threading/example7_semaphore.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/003_Асинхронное и многопоточное программирование (Presentation)/003_Samples/_threading/example8_timer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/003_Асинхронное и многопоточное программирование (Presentation)/003_Samples/_threading/example9_concurrent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/003_Асинхронное и многопоточное программирование (Presentation)/003_Асинхронное и многопоточное программирование (Description).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/003_Асинхронное и многопоточное программирование (Presentation)/003_Асинхронное и многопоточное программирование (Presentation).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/004_Метаклассы и их применение/004_Samples/example1_type.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/004_Метаклассы и их применение/004_Samples/example2_orm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/004_Метаклассы и их применение/004_Метаклассы и их применение (Description).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/004_Метаклассы и их применение/004_Метаклассы и их применение (Presentation).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/db.sqbpro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Описание курса Python Advanced.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 5_Библиотека Numpy/005_Samples/example1_types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 5_Библиотека Numpy/005_Samples/example2_initialize.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 5_Библиотека Numpy/005_Samples/example3_generate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 5_Библиотека Numpy/005_Samples/example4_zeros_ones_eye.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 5_Библиотека Numpy/005_Samples/example5_indexing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 5_Библиотека Numpy/005_Samples/example6_lin_alg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 5_Библиотека Numpy/005_Samples/example6_shapes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 5_Библиотека Numpy/005_Samples/example7_copies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 5_Библиотека Numpy/005_Samples/example8_io.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 5_Библиотека Numpy/005_Библиотека Numpy (Description).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 5_Библиотека Numpy/005_Библиотека Numpy (Presentation).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 6 (Типизированный Python)/006_Samples/example1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 6 (Типизированный Python)/006_Samples/example10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 6 (Типизированный Python)/006_Samples/example2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 6 (Типизированный Python)/006_Samples/example3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 6 (Типизированный Python)/006_Samples/example4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 6 (Типизированный Python)/006_Samples/example5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 6 (Типизированный Python)/006_Samples/example6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 6 (Типизированный Python)/006_Samples/example7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 6 (Типизированный Python)/006_Samples/example8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 6 (Типизированный Python)/006_Samples/example9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 6 (Типизированный Python)/006_Типизированный Python (Presentation).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 7 (Модульное тестирование)/007_Samples/example0_custom.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 7 (Модульное тестирование)/007_Samples/example10/django_api/issues/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 7 (Модульное тестирование)/007_Samples/example10/django_api/issues/csrf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 7 (Модульное тестирование)/007_Samples/example10/django_api/issues/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 7 (Модульное тестирование)/007_Samples/example10/django_api/issues/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 7 (Модульное тестирование)/007_Samples/example10/django_api/issues/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 7 (Модульное тестирование)/007_Samples/example10/django_api/issues/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 7 (Модульное тестирование)/007_Samples/example10/django_api/issues/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 7 (Модульное тестирование)/007_Samples/example10/django_api/issues/templates/test_template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 7 (Модульное тестирование)/007_Samples/example10/django_api/issues/tests/test_integration_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 7 (Модульное тестирование)/007_Samples/example10/django_api/issues/tests/test_models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 7 (Модульное тестирование)/007_Samples/example10/django_api/issues/tests/test_serialziers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 7 (Модульное тестирование)/007_Samples/example10/django_api/issues/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 7 (Модульное тестирование)/007_Samples/example10/django_api/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 7 (Модульное тестирование)/007_Samples/example10/django_api/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 7 (Модульное тестирование)/007_Samples/example10/django_api/tasks/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 7 (Модульное тестирование)/007_Samples/example10/django_api/tasks/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 7 (Модульное тестирование)/007_Samples/example10/django_api/tasks/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 7 (Модульное тестирование)/007_Samples/example10/django_api/tasks/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 7 (Модульное тестирование)/007_Samples/example1_basics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 7 (Модульное тестирование)/007_Samples/example2_test_flow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 7 (Модульное тестирование)/007_Samples/example4_asserts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 7 (Модульное тестирование)/007_Samples/example4_simple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 7 (Модульное тестирование)/007_Samples/example5_mock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 7 (Модульное тестирование)/007_Samples/example6_skip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 7 (Модульное тестирование)/007_Samples/example7_legacy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 7 (Модульное тестирование)/007_Samples/example8/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 7 (Модульное тестирование)/007_Samples/example8/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 7 (Модульное тестирование)/007_Samples/example8/tests/test_user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 7 (Модульное тестирование)/007_Samples/example8/tests/test_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 7 (Модульное тестирование)/007_Samples/example8/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 7 (Модульное тестирование)/007_Samples/example9/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 7 (Модульное тестирование)/007_Samples/example9/testing/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 7 (Модульное тестирование)/007_Samples/example9/testing/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 7 (Модульное тестирование)/007_Samples/example9/testing/module1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 7 (Модульное тестирование)/007_Samples/example9/testing/module1/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 7 (Модульное тестирование)/007_Samples/example9/testing/module1/test_models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 7 (Модульное тестирование)/007_Samples/example9/testing/test_models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 7 (Модульное тестирование)/007_Модульное тестирование (Description).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 7 (Модульное тестирование)/007_Модульное тестирование (Presentation).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 8 (Спецификация PEP 8)/008_Samples/example1_indentation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 8 (Спецификация PEP 8)/008_Samples/example2_breaks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 8 (Спецификация PEP 8)/008_Samples/example3_imports.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 8 (Спецификация PEP 8)/008_Samples/example4_ordering.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 8 (Спецификация PEP 8)/008_Samples/example5__full_examples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 8 (Спецификация PEP 8)/008_Samples/mypackage/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 8 (Спецификация PEP 8)/008_Samples/mypackage/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 8 (Спецификация PEP 8)/008_Samples/mypackage/utils/constants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 8 (Спецификация PEP 8)/008_Samples/mypackage/utils/core/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 8 (Спецификация PEP 8)/008_Samples/mypackage/utils/core/physics/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 8 (Спецификация PEP 8)/008_Samples/mypackage/utils/core/physics/constants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 8 (Спецификация PEP 8)/008_Samples/mypackage/utils/core/physics/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 8 (Спецификация PEP 8)/008_Samples/mypackage/utils/extra_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 8 (Спецификация PEP 8)/008_Samples/mypackage/utils/long_names/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 8 (Спецификация PEP 8)/008_Samples/mypackage/utils/long_names/physics/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 8 (Спецификация PEP 8)/008_Samples/mypackage/utils/long_names/physics/constants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 8 (Спецификация PEP 8)/008_Samples/mypackage/utils/long_names/physics/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 8 (Спецификация PEP 8)/008_Спецификация PEP 8 (Description).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-advanced-materials/Урок 8 (Спецификация PEP 8)/008_Спецификация PEP 8 (Presentation).pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9f274025-e766-4379-b065-efeb24c7ac84" name="Changes" comment="Advanced">
+      <change afterPath="$PROJECT_DIR$/PythonStart1/001/001_Samples/first_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStart1/001/001_Ознайомлення_з_мовою_Python (Description).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStart1/001/001_Ознайомлення_з_мовою_Python (Presentation).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStart1/002/002_Samples/l_2_01_strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStart1/002/002_Samples/l_2_02_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStart1/002/002_Samples/l_2_03_bool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStart1/002/002_Примітивні_типи_даних_та_змінні (Description).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStart1/002/002_Примітивні_типи_даних_та_змінні (Presentation).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStart1/003/003_Samples/if-elif-else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStart1/003/003_Samples/links" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStart1/003/003_Samples/ternary_operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStart1/003/003_Умовні_оператори (Description).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStart1/003/003_Умовні_оператори (Presentation).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStart1/004/004_Samples/while_break_finally.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStart1/004/004_Цикли (Description).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStart1/004/004_Цикли (Presentation).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStart1/005/005_Samples/l5_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStart1/005/005_Samples/list_learn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStart1/005/005_Списки_та_зрізи (Presentation).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStart1/005/005_Списки_та_зрізи(Description).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStart1/006/006_Samples/l_6_dict_tasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStart1/006/006_Samples/l_6_dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStart1/006/006_Samples/lecture_6_dictioanries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStart1/006/006_Словники (Description).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStart1/006/006_Словники (Presentation).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStart1/007/007_Samples/l_7_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStart1/007/007_Samples/l_7_set_tuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStart1/007/007_Samples/l_7_tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStart1/007/007_Множини_та_кортежі (Description).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStart1/007/007_Множини_та_кортежі (Presentation).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStart1/008/008_Samples/l_8_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStart1/008/008_Samples/lection_08_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStart1/008/008_Функції_частина_1 (Description).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStart1/008/008_Функції_частина_1 (Presentation).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStart1/009/009_Samples/l_09_scope_namespases.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStart1/009/009_Функції_частина_2_(Description).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStart1/009/009_Функції_частина_2_(Presentation).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStart1/010/010_Samples/l_10_exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStart1/010/010_Винятки_та_їх_обробка (Description).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStart1/010/010_Винятки_та_їх_обробка (Presentation).pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -243,13 +85,13 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/maryn/PycharmProjects/PythonPractice2025/Patterns"
+    "last_opened_file_path": "C:/Users/maryn/PycharmProjects/PythonPractice2025"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\maryn\PycharmProjects\PythonPractice2025\Patterns" />
       <recent name="C:\Users\maryn\PycharmProjects\PythonPractice2025" />
+      <recent name="C:\Users\maryn\PycharmProjects\PythonPractice2025\Patterns" />
     </key>
   </component>
   <component name="RunManager" selected="Python.implementation_singleton">
@@ -382,12 +224,21 @@
       <option name="project" value="LOCAL" />
       <updated>1744727225474</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Advanced">
+      <option name="closed" value="true" />
+      <created>1744823767602</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1744823767602</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Variables" />
     <MESSAGE value="Types" />
-    <option name="LAST_COMMIT_MESSAGE" value="Types" />
+    <MESSAGE value="Advanced" />
+    <option name="LAST_COMMIT_MESSAGE" value="Advanced" />
   </component>
 </project>
